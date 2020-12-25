@@ -1,0 +1,13 @@
+{
+  "name": "js-ansi-parser-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "benchmark:node-ansi-parser": "node benchmarks/node-ansi-parser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
